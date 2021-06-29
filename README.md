@@ -1,3 +1,5 @@
+[![.github/workflows/azure.yml](https://github.com/mifurm/calculator/actions/workflows/azure.yml/badge.svg)](https://github.com/mifurm/calculator/actions/workflows/azure.yml)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
